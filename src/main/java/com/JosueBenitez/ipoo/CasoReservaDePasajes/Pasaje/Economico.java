@@ -60,5 +60,9 @@ public class Economico extends Pasaje{
 		this.cena = cena;
 	}
 	
+	public void obtServicios(int id, String nombre, double costo){
+		
+	}
+	
 }
 

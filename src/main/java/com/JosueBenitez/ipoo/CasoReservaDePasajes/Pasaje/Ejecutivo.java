@@ -122,5 +122,9 @@ public class Ejecutivo extends Pasaje{
 		this.artMultimedia = artMultimedia;
 	}
 	
+	public void obtServicios(int id, String nombre, double costo){
+		
+	}
+	
 }
 

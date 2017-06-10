@@ -101,5 +101,9 @@ public class Estandar extends Pasaje{
 		this.postre = postre;
 	}
 	
+	public void obtServicios(int id, String nombre, double costo){
+		
+	}
+	
 	
 }

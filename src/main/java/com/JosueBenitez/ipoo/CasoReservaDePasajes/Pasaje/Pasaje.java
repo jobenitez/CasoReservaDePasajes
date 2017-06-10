@@ -87,7 +87,9 @@ public class Pasaje {
 		this.pasajeAlternativo = pasajeAlternativo;
 	}
 
-	   
+	public void obtServicios(int id, String nombre, double costo){
+		
+	}   
 }
 
 
